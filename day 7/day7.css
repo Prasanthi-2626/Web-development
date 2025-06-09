@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Edu+VIC+WA+NT+Hand:wght@400..700&display=swap');
+
+body{
+    text-align: center;
+}
+
+.heading{
+    color: green;
+    font-family: 'Fuggles', cursive;
+    font-size: 80px;
+    font-style: italic;
+}
+
+.para{
+    color: red;
+    font-family: 'Fira Code', monospace;
+    font-size: 90px;
+    font-style: italic;
+    text-decoration: underline;
+    word-spacing: 50px;
+}
