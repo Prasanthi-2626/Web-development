@@ -1,0 +1,17 @@
+.box{
+    border-color: red;
+    border-width: 8px;
+    border-style: solid;
+    text-align: center;
+    padding: 200px;
+    margin: 50px;
+    height: 50vh;
+    width: 50vh; 
+}
+.heading{
+    display: block;
+    border-color: red;
+    border-width: 8px;
+    border-style: solid;
+    padding-top: 20px;
+}
