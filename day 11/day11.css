@@ -1,0 +1,6 @@
+/* In your day11.css */
+.carousel-item img {
+    height: 640px;
+    object-fit: cover;
+  }
+  
